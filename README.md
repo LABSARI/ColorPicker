@@ -1,3 +1,5 @@
+This project was merged into pharo-spec/NewTools
+
 # Description
 
 Provides a powerful and intuitive color picker tool designed for Pharo. It seamlessly integrates with the Spec widget library and leverages the capabilities of the 
